@@ -12,3 +12,6 @@ Proof of Concept
 
 ### Pictures
 ![](assets/attachScreenshot.png)
+
+### References
+* [FindWDK](https://github.com/SergiusTheBest/FindWDK)
